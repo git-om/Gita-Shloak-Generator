@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.container {
+    border: 1rem solid black;
+    border-radius: 3rem 0 3rem 0;
+    padding: 2rem;
+}
+
+.number{
+    text-align: right;
+    color: #b27f25;
+}
+
+.translation{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 1.5rem;
+}
+
+.desc{
+
+}
+
+.shloak {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
